@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header-bg {
+  background: #fff9f4;
+}
+.banner-text {
+  padding: 60px 70px;
+}
+.banner-text h1 {
+  font-size: 60px;
+}
+.banner-text span {
+  color: #fa804c;
+}
